@@ -1,6 +1,6 @@
 import React from "react";
 import ItemContainer from "./styles/Item.styled";
-import bagImage from '../resources/images/bag.jpg'
+import bagImage from "../resources/images/bag.jpg";
 export default function item() {
   return (
     <ItemContainer>
@@ -37,37 +37,45 @@ export default function item() {
               placeholder="Net Price"
             />
           </div>
-          <div>
+          <div className="colum">
             <label htmlFor="additional-price">
               <strong>Additions on Price FZ:</strong>
             </label>
             <div className="input-container">
-              <button type="button">+</button>
+              <button type="button" className="plus">
+                +
+              </button>
               <input
                 type="number"
                 name="additional-price"
                 id="additional-price"
                 placeholder="Addition on price"
               />
-              <button type="button">-</button>
+              <button type="button" className="minus">
+                -
+              </button>
             </div>
             <span>
               <strong>total:</strong>100
             </span>
           </div>
-          <div>
+          <div className="colum">
             <label htmlFor="local-additional-price">
               <strong>Local Additions on FZ:</strong>
             </label>
             <div className="input-container">
-              <button type="button">+</button>
+              <button type="button" className="plus">
+                +
+              </button>
               <input
                 type="number"
                 name="local-additional-price"
                 id="local-additional-price"
                 placeholder="local addition on price"
               />
-              <button type="button">-</button>
+              <button type="button" className="minus">
+                -
+              </button>
             </div>
             <span>
               <strong>total:</strong>100

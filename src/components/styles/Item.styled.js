@@ -2,11 +2,14 @@ import styled from "styled-components";
 
 const ItemComponent = styled.div`
   background: #fff;
-  width: max-content;
-  min-width: 300px;
-  max-width: 500px;
+  width: 30vw;
+  min-width: 400px;
+  max-width: 700px;
   border-radius: 10px;
+  box-shadow: 0 0 10px #cdc4c461;
   .item {
+    margin: 10px;
+    padding: 10px;
     h1 {
       margin: 0;
       padding: 10px;
@@ -14,11 +17,67 @@ const ItemComponent = styled.div`
     }
     .item-picture {
       height: 200px;
-      margin: auto;
       img {
         height: 100%;
+        display: block;
+        margin: auto;
       }
     }
+
+    form > div {
+      font-size: 1.3rem;
+      display: grid;
+      align-items: center;
+      gap: 5px;
+      margin: 30px;
+      overflow: hidden;
+      label {
+        min-width: 20%;
+      }
+      .input-container {
+        display: flex;
+      }
+      input {
+        outline: none;
+        min-height: 20px;
+        border: solid 1px #ccc;
+        border-radius: 5px;
+        padding: 5px;
+      }
+    }
+
+    form {
+      .colum {
+        display: flex;
+        flex-direction: column;
+        .input-container {
+          position: relative;
+          width: 100%;
+          input {
+            width: 100%;
+            padding: 5px;
+            padding-left: 35px;
+          }
+          button {
+            position: absolute;
+            width: 30px;
+            height: 100%;
+            border: none;
+            color: #fff;
+            background: rgb(239 98 98);
+          }
+          .plus {
+            left: 100%;
+            transform: translateX(-100%);
+            background: rgb(8 211 8);
+          }
+        }
+      }
+    }
+  }
+  .description {
+    display: flex;
+    justify-content: space-around;
   }
 `;
 
