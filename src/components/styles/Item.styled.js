@@ -7,11 +7,12 @@ const ItemComponent = styled.div`
   max-width: 700px;
   border-radius: 10px;
   box-shadow: 0 0 10px #cdc4c461;
+  overflow: hidden;
   .item {
     margin: 10px;
     padding: 10px;
     h1 {
-      margin: 0;
+      margin: 10px;
       padding: 10px;
       text-align: center;
     }
@@ -25,11 +26,11 @@ const ItemComponent = styled.div`
     }
 
     form > div {
-      font-size: 1.3rem;
+      font-size: 1.2rem;
       display: grid;
       align-items: center;
       gap: 5px;
-      margin: 30px;
+      margin: 25px;
       overflow: hidden;
       label {
         min-width: 20%;
@@ -65,6 +66,8 @@ const ItemComponent = styled.div`
             border: none;
             color: #fff;
             background: rgb(239 98 98);
+            border-radius: 5px;
+            font-size: 1.3rem;
           }
           .plus {
             left: 100%;
