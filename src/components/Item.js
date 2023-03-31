@@ -1,5 +1,6 @@
 import React from "react";
 import ItemContainer from "./styles/Item.styled";
+import bagImage from '../resources/images/bag.jpg'
 export default function item() {
   return (
     <ItemContainer>
@@ -74,7 +75,7 @@ export default function item() {
           </div>
         </form>
         <div className="item-picture">
-          <img src="" alt="" srcset="" />
+          <img src={bagImage} alt="" srcset="" />
         </div>
       </div>
     </ItemContainer>
