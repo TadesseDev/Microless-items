@@ -12,7 +12,7 @@ export default function Home() {
     Math.floor(Math.random() * (max - min + 1) + min);
   const itemsInStore = [
     {
-      name: "This is Item one",
+      name: "Laptop computer",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -32,7 +32,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Nikon Camera",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -52,7 +52,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Mac Book Pro",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -72,7 +72,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Standard travel bag",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -92,7 +92,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Desktop computer",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -112,7 +112,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Smart phone",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -132,7 +132,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Nikon Camera",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
@@ -152,7 +152,7 @@ export default function Home() {
       },
     },
     {
-      name: "This is Item one",
+      name: "Laptop computer",
       capacity: random(5, 250),
       pcsInPallet: random(5, 250),
       stock: random(5, 250),
