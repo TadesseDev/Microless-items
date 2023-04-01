@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# Microless
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Hello, This is a clone for a static webpage 🙌 [See live❌](https://tadessedev.github.io/showing-guide-build/)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+# Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://user-images.githubusercontent.com/69077061/229280912-55425eca-a865-478d-a57a-0ee849cf7256.mp4
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Live Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Go Live❌](https://tadessedev.github.io/showing-guide-build/) 🙂
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> This is an open source project. I hope you manage to design something similar to the original design.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Open [main branch](https://github.com/Tadessedev/items/)
+2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```bash
+    cd # you folder location
+  ```
 
-### Code Splitting
+3. Type "pwd" to see your working directory.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  ```bash
+    pwd
+  ```
 
-### Analyzing the Bundle Size
+4. [clone repository](https://github.com/TadesseDev/items/)(git clone "branch-link")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  ```bash
+    git clone https://github.com/Tadessedev/items/
+  ```
 
-### Making a Progressive Web App
+5. cd the project folder
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ ```bash
+    cd items
+  ```
+6. Run "npm install" to install required packages.
 
-### Advanced Configuration
+ ```bash
+    npm install
+  ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+7. Run
 
-### Deployment
+  ```bash
+    npm start
+  ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+8. Enjoy 😎
 
-### `npm run build` fails to minify
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 **Tadesse Alemayehu**
+
+
+- GitHub: [@githubhandle](https://github.com/Tadessedev)
+- Twitter: [@twitterhandle](https://twitter.com/TadessebDev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tadessedev)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Submit an issue
+
+[Issue page](https://github.com/Tadessedev/items/issues)
+
+## Acknowledgments
+
+- You! 🙏🏼 yes you... for visiting.
