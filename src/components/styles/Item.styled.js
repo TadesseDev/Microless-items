@@ -3,11 +3,12 @@ import styled from "styled-components";
 const ItemComponent = styled.div`
   background: #fff;
   width: 30vw;
-  min-width: 400px;
-  max-width: 700px;
+  min-width: 370px;
+  max-width: 400px;
   border-radius: 10px;
   box-shadow: 0 0 10px #cdc4c461;
   overflow: hidden;
+  margin: 20px;
   .item {
     margin: 10px;
     padding: 10px;
