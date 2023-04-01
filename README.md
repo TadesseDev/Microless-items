@@ -1,6 +1,6 @@
 # Microless
 
-> Hello, This is a clone for a static webpage 🙌 [See live❌](https://tadessedev.github.io/showing-guide-build/)
+> Hello, This is a clone for a static webpage 🙌 [See live](https://tadessedev.github.io/microless-build/)
 
 
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/69077061/229280912-55425eca-a865-478d-
 
 ## Live Demo
 
-[Go Live❌](https://tadessedev.github.io/showing-guide-build/) 🙂
+[Go Live](https://tadessedev.github.io/microless-build/) 🙂
 
 
 ## Getting Started
