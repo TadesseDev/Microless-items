@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/69077061/229280912-55425eca-a865-478d-
 > This is an open source project. I hope you manage to design something similar to the original design.
 
 
-1. Open [main branch](https://github.com/Tadessedev/items/)
+1. Open [main branch](https://github.com/Tadessedev/microless-items/)
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 
   ```bash
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/69077061/229280912-55425eca-a865-478d-
 4. [clone repository](https://github.com/TadesseDev/items/)(git clone "branch-link")
 
   ```bash
-    git clone https://github.com/Tadessedev/items/
+    git clone https://github.com/Tadessedev/microless-items/
   ```
 
 5. cd the project folder
